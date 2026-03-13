@@ -162,3 +162,26 @@ This approach is commonly used in SaaS platforms and IT service management syste
 ## How to Run the Project
 
 Install dependencies:
+pandas
+numpy
+scikit-learn
+nltk
+seaborn
+matplotlib
+
+run the program:
+
+---
+
+## Future Improvements
+
+• Use advanced NLP models like BERT  
+• Deploy the model as a web API  
+• Build a dashboard for ticket monitoring  
+• Implement real-time ticket prediction
+
+---
+
+## Author
+
+Prashanth B
