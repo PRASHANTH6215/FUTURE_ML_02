@@ -158,6 +158,23 @@ This system helps support teams:
 This approach is commonly used in SaaS platforms and IT service management systems.
 
 ---
+## Example Prediction
+
+Input Ticket:
+"My internet connection is not working."
+
+Output:
+Category: Technical Issue  
+Priority: High
+
+## Example Prediction
+
+Input Ticket:
+"My internet connection is not working."
+
+Output:
+Category: Technical Issue  
+Priority: High
 
 ## How to Run the Project
 
